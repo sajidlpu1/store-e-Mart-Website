@@ -1,0 +1,82 @@
+#site_logo {
+  margin-left: 20px;
+}
+
+.navbar-size {
+  height: 65% !important;
+  margin: 0px auto;
+  left: 0;
+  right: 0;
+  padding: 0;
+}
+
+#main_img {
+  width: 190px;
+  margin: 3% 44%;
+}
+
+.titleimg-spec {
+  width: 100%;
+  height: 40%;
+}
+
+.desc-spec {
+  line-height: 1.7;
+  padding: 4%;
+  text-align: center;
+  font-family: 'Montserrat', cursive;
+  color:#ffffff;
+}
+.forms {
+  width: 60%;
+  margin: 2% 20%;
+}
+
+
+
+/*Common Section*/
+#center_align {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.center_align {
+  text-align: center;
+  margin-top: 2%;
+}
+.color-white
+{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  margin-top: 4%;
+  margin-bottom: 2%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#title {
+  padding: 2%;
+  background-color: #F8F9FA;
+}
+
+hr {
+  display: block;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 2px;
+}
+
+.position_image_right {
+  width: 60%;
+  position: absolute;
+  left: 120%;
+  bottom: 5%;
+}
